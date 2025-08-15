@@ -36,7 +36,7 @@ const Process = () => {
               title: "Scale",
               desc: "Performance, security, and iterative growth.",
             },
-          ].map((p, i) => (
+          ].map((p) => (
             <Card key={p.step} className="cursor-pointer">
               <div className="flex items-start gap-4 curp">
                 <div className="text-4xl font-black bg-gradient-to-b from-blue-500 to-cyan-400 bg-clip-text text-transparent">
