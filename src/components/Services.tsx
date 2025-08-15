@@ -55,7 +55,7 @@ const Services = () => {
               icon: Shield,
               bullets: ["IAM", "Auditability", "Privacy"],
             },
-          ].map((s, i) => (
+          ].map((s) => (
             <Card key={s.title}>
               <div className="flex items-start gap-4">
                 <div className="h-12 w-12 rounded-xl bg-gradient-to-br from-blue-500/20 to-cyan-400/20 ring-1 ring-blue-400/30 flex items-center justify-center">
