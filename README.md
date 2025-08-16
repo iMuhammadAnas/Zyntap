@@ -1,6 +1,6 @@
-# Zyntap - Software Development Landing Page
+# Zyntap - Software Development Website
 
-A sleek, futuristic, and interactive landing page for **Zyntap**, a next-gen software development company.  
+A sleek, futuristic, and interactive Website for **Zyntap**, a next-gen software development company.  
 Crafted with **React**, **Tailwind CSS**, and **Framer Motion** for a smooth, immersive experience.
 
 ---
@@ -52,5 +52,6 @@ Crafted with **React**, **Tailwind CSS**, and **Framer Motion** for a smooth, im
   
   ```bash
   npm run dev
+
 
 
